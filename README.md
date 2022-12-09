@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game
+This repo is implementation of Tic-Tac-Toe game
